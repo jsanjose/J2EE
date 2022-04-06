@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context>
+    <Resource name="jdbc/sqliteDS" auth="Container" type="javax.sql.DataSource" maxActive="100" maxIdle="10" maxWait="10000" 
+        url="jdbc:sqlite:C:/J2EE/server/sqlite3/app.db" driverClassName="org.sqlite.JDBC" username="" password="" />
+</Context>
